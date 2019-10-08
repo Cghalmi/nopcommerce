@@ -1,0 +1,11 @@
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\bin\Nop.Admin.dll.config
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\bin\Nop.Admin.dll
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\bin\Nop.Admin.pdb
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\bin\Nop.Admin.dll.CodeAnalysisLog.xml
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\bin\Nop.Admin.dll.lastcodeanalysissucceeded
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.csproj.App.config
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.csprojAssemblyReference.cache
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.csproj.CoreCompileInputs.cache
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.csproj.CopyComplete
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.dll
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.pdb

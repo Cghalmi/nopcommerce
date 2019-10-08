@@ -1,0 +1,13 @@
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Views\Configure.cshtml
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\web.config
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Description.txt
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\logo.jpg
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Nop.Plugin.Shipping.CanadaPost.dll.config
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Nop.Plugin.Shipping.CanadaPost.dll
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Nop.Plugin.Shipping.CanadaPost.pdb
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Nop.Plugin.Shipping.CanadaPost.dll.CodeAnalysisLog.xml
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Nop.Plugin.Shipping.CanadaPost.dll.lastcodeanalysissucceeded
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.csprojAssemblyReference.cache
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.csproj.CoreCompileInputs.cache
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.dll
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.pdb

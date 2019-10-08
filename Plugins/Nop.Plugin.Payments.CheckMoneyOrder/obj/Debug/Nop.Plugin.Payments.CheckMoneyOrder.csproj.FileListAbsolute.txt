@@ -1,0 +1,15 @@
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Views\Configure.cshtml
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Views\PaymentInfo.cshtml
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\web.config
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Description.txt
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\logo.jpg
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.dll.config
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.dll
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.pdb
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.dll.CodeAnalysisLog.xml
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.dll.lastcodeanalysissucceeded
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.csproj.App.config
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.csprojAssemblyReference.cache
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.csproj.CoreCompileInputs.cache
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.dll
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.pdb

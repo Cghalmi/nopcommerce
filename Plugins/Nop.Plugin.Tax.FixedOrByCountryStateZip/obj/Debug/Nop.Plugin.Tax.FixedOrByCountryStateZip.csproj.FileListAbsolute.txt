@@ -1,0 +1,16 @@
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\_CountryStateZip.cshtml
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Description.txt
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\web.config
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\_FixedRate.cshtml
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\Configure.cshtml
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\logo.jpg
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll.config
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.pdb
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll.CodeAnalysisLog.xml
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll.lastcodeanalysissucceeded
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.csproj.App.config
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.csprojAssemblyReference.cache
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.csproj.CoreCompileInputs.cache
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll
+C:\Users\cghalmi\Documents\UQAM\A19\MGL7361\TP1\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.pdb
